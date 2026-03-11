@@ -9,6 +9,10 @@ My background is in strategy consulting and finance. Prior to graduate school, I
 
 I am interested in data and analytics, particularly in projects focused on data analysis, public policy, and technology. I enjoy exploring how data can be used to improve decision-making and create practical solutions to real-world problems. 
 
+## Experience
+**EY-Parthenon**
+Strategy Consultant (2022-2025)
+
 ## Education
 **The University of Chicago**
 - MS in Computational Analysis and Public Policy (Expected completion: June 2027)
