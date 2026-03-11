@@ -11,7 +11,7 @@ I am interested in data and analytics, particularly in projects focused on data 
 
 ## Experience
 **EY-Parthenon**
-Strategy Consultant (2022-2025)
+- Strategy Consultant (2022-2025)
 
 ## Education
 **The University of Chicago**
