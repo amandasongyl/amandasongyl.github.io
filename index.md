@@ -1,12 +1,12 @@
-<div style="text-align:center; margin-top:100px;">
+<div style="text-align:center; margin-top:120px;">
 
-# Amanda Song
+<h1>Amanda Song</h1>
 
-MS in Computational Analysis and Public Policy  
-The University of Chicago
+<p><strong>MS in Computational Analysis and Public Policy</strong><br>
+The University of Chicago</p>
 
-Former Strategy Consultant at EY-Parthenon  
+<p>Former Strategy Consultant at EY-Parthenon</p>
 
-Interested in projects at the intersection of technology and public policy.
+<p>Interested in projects at the intersection of technology and public policy.</p>
 
 </div>
