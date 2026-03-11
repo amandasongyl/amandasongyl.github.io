@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
-# About Me
 Hi! My name is Amanda Song and I am currently a graduate student at the University of Chicago pursuing a Master of Science in Computational Analysis and Public Policy.
 
 My background is in strategy consulting and finance. Prior to graduate school, I spent three years as a strategy consultant at EY-Parthenon, where I worked with organizations across the consumer goods and industrials sectors to help drive value across their operations. My work included projects in procurement optimization, legal entity restructuring, and organizational design.
@@ -12,8 +11,8 @@ I am interested in data and analytics, particularly in projects focused on data 
 
 ## Education
 **The University of Chicago**
-MS in Computational Analysis and Public Policy (expected completion June 2027)
+- MS in Computational Analysis and Public Policy (Expected completion: June 2027)
 
 **Singapore Management University**
-Bachelor in Accountancy (2022)
-Bachelor in Business Management (2022)
+- Bachelor in Accountancy (2022)
+- Bachelor in Business Management (2022)
