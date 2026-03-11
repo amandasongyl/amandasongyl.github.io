@@ -14,5 +14,5 @@ I am interested in data and analytics, particularly in projects focused on data 
 - MS in Computational Analysis and Public Policy (Expected completion: June 2027)
 
 **Singapore Management University**
-- Bachelor in Accountancy (2022)
-- Bachelor in Business Management (2022)
+- Bachelor of Accountancy (2022)
+- Bachelor of Business Management (2022)
